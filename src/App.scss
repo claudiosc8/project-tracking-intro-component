@@ -70,13 +70,14 @@ body:after {
     padding-top:90px;
     padding-bottom: 90px;
 }
-  .illustration {
-    align-self:center;
-    & img {
-      width: 69vw;
-      max-width: 1000px;
-    }
+
+.illustration {
+  align-self:center;
+  & img {
+    width: 69vw;
+    max-width: 1000px;
   }
+}
 
 header {
   justify-content: space-between;
@@ -109,7 +110,7 @@ nav {
       &:last-child {
         color:$Grayish-Blue;
       }
-      &:hover {
+      &:active {
         color:$Dark-Grayish-Blue;
       }
     } 
@@ -170,6 +171,9 @@ h1 {
   margin-top:8px;
   cursor: pointer;
   &:hover {
+    background-color: lighten($Red, 4%);
+  }
+  &:active {
     background-color: #bc4747;
   }
 }
