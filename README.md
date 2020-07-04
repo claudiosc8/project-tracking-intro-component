@@ -1,5 +1,7 @@
 # Frontend Mentor - Project tracking intro component
 
+**Check the deployed app [here](https://project-tracking-intro-component-gilt.vercel.app)**
+
 ![Design preview for the Project tracking intro component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
