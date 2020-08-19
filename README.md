@@ -2,6 +2,8 @@
 
 **Check the deployed app [here](https://project-tracking-intro-component-gilt.vercel.app)**
 
+**Check the report on Frontend Mentor [here](https://www.frontendmentor.io/solutions/project-tracking-intro-component-using-react-and-sass-ktNw3KV2T)**
+
 ![Design preview for the Project tracking intro component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
